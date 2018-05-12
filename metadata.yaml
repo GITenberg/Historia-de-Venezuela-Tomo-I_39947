@@ -1,0 +1,36 @@
+_repo: Historia-de-Venezuela-Tomo-I_39947
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Bécker, Jerónimo
+    alias: Becker, Jeronimo
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '40325'
+    url: http://www.gutenberg.org/2009/agents/40325
+    wikipedia: http://es.wikipedia.org/wiki/Jer%C3%B3nimo_B%C3%A9cker
+covers:
+- cover_type: archival
+  image_path: 39947-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aguado, Pedro de, active 16th century
+    alias: De Aguado, Pedro
+    gutenberg_agent_id: '40324'
+    url: http://www.gutenberg.org/2009/agents/40324
+    wikipedia: http://es.wikipedia.org/wiki/Pedro_de_Aguado
+description: ''
+gutenberg_issued: '2012-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39947'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venezuela -- History -- 1556-1810'
+- !lcc 'F2301'
+- !lcsh 'Venezuela -- History -- To 1556'
+title: Historia de Venezuela, Tomo I
+url: http://www.gutenberg.org/ebooks/39947
